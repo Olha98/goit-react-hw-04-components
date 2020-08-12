@@ -1,0 +1,9 @@
+tbody tr:nth-child(even)  {
+  background-color: #ecf1f4;
+}
+tbody{
+  color: #5b6064;
+}
+tr th:nth-child(1){
+  text-transform: capitalize;
+}
