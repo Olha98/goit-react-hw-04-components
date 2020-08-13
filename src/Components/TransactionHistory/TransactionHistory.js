@@ -2,7 +2,6 @@ import React from 'react';
 import ListBody from './ListBody/ListBody.js'
 import style from './TransactionHistory.module.css'
 
-
 const TransactionHistory =(props)=>{
   const items = props.items
   console.log(items)
